@@ -22,6 +22,7 @@ The camera position coordinate parameters have been changed for every car and bi
 **Drag only the `data` folder into your game directory. Even if the `data` folder doesn't exist there yet, the game will still recognize it.**
 
 P.S. If you want to return to the vanilla settings of the Chase Camera later, just drag the `data` folder from the `vanilla backup chase cameras` folder into the game directory.
+
 ---
 
 ### License:
