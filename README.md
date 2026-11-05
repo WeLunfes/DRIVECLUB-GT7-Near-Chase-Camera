@@ -3,6 +3,8 @@
 The goal of this mod is to reproduce the camera behavior from GT7 as accurately as possible within the current capabilities. 
 I spent a long time working on how to adapt the FOV and the distance from the car to the camera so that they match GT7 as closely as possible.
 
+<img width="2560" height="1440" alt="runtime Screenshot 2026 11 05 - 16 50 05 57" src="https://github.com/user-attachments/assets/34dab4ef-6e96-495f-b73d-0cb802446738" />
+
 The camera position coordinate parameters have been changed for every car and bike.
 
 ---
